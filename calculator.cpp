@@ -1,5 +1,6 @@
 // Simple calculator version 1.0.0
 #include <bits/stdc++.h>
+#include <conio.h>
 #include "docs/otherfns.hpp"
 using namespace std;
 int main()
@@ -191,5 +192,6 @@ int main()
               cout<<"Please enter correct number:";
           }
      } while (inp>8 || inp<=0);
-     
+     cout<<"Press any key to exit.......";
+     getch();
 }

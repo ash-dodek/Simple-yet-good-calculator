@@ -11,13 +11,13 @@ string QuadSums(int input){
             cin >> thrd;
             int num = pow(scnd, 2) - 4 * first * thrd;
             if (num > 1){
-                cout << "Real Roots exist";
+                cout << "Real Roots exist\n";
             }
             if (num < 1){
-                cout << "Real Roots Dont Exist";
+                cout << "Real Roots Dont Exist\n";
             }
             if (num == 0){
-                cout << "Equal real roots exist";
+                cout << "Equal real roots exist\n";
             }
             // break;
         }
