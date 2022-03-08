@@ -13,5 +13,5 @@ You can run this calculator by using c++ compilers, i used g++ for this.
 # Problems or Suggestions
 You are most welcome to report any problems or suggest changes in the program. If any problems found, check out the [**Problems**](https://github.com/Harsh69-bulider/Simple-yet-good-calculator/issues) section.
 
-# **IMPORTATNT**
-**NOTE: If you will dowload the exe , Microsoft SmartScreen will stop you from doing so, u can either trust me or compile the code yourself**.
+# **IMPORTANT**
+**NOTE: If you will dowload the exe file MicrosoftSmart Screen will stop you from doing so, u can either trust me or compile the code yourself**
