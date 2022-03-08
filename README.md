@@ -1,5 +1,4 @@
-# Calculator
-Multipurpose calculator made in c++.
+Multipurpose calculator made in c++. Yeah i know that sounds kinda easy but here we go :)
 # How to use this calculator?
 There are 2 ways to do this, either by running the exe file or compile this code by any c++ compiler.
 ## For using this calculator via the exe file:
