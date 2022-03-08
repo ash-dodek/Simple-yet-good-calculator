@@ -7,7 +7,7 @@ There are 2 ways to do this, either by running the exe file or compile this code
 + After opening the [Releases](https://github.com/Harsh69-bulider/Simple-yet-good-calculator/releases) tab, find the latest version of the calculator.
 + Download the exe file and run it.
 # Compiling the code
-You can run this calculator by using using c++ compilers, i used g++ for this.
+You can run this calculator by using c++ compilers, i used g++ for this.
 # Platforms Tested
 + This program was tested on Microsoft Windows 10 and Windows 7.
 # Problems or Suggestions
