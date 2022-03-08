@@ -12,4 +12,6 @@ You can run this calculator by using c++ compilers, i used g++ for this.
 + This program was tested on Microsoft Windows 10 and Windows 7.
 # Problems or Suggestions
 You are most welcome to report any problems or suggest changes in the program. If any problems found, check out the [**Problems**](https://github.com/Harsh69-bulider/Simple-yet-good-calculator/issues) section.
-Thanks
+
+# **IMPORTATNT**
+**NOTE: If you will dowload the exe , Microsoft SmartScreen will stop you from doing so, u can either trust me or compile the code yourself**.
