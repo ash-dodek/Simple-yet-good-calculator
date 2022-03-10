@@ -5,8 +5,8 @@ There are 2 ways to do this, either by running the exe file or compile this code
 + Go to the releases tab of this repo or [click here.](https://github.com/Harsh69-bulider/Simple-yet-good-calculator/releases)
 + After opening the [Releases](https://github.com/Harsh69-bulider/Simple-yet-good-calculator/releases) tab, find the latest version of the calculator.
 + Download the exe file and run it.
-# Compiling the code
-You can run this calculator by using c++ compilers, i used g++ for this.
+# Using this by the code
++ Open any of the code editors and run the **"calculator.cpp"** .
 # Platforms Tested
 + This program was tested on Microsoft Windows 10 and Windows 7.
 # Problems or Suggestions
