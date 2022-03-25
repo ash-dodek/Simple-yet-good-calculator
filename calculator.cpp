@@ -102,10 +102,10 @@ int main()
           {
                cout << "------------------You have chosen Square root-------------------"
                     << "\n";
-               cout << "Enter your digit:";
+               cout << "Enter digit to be squared:";
                cin >> a;
                h = sqrt(a);
-               cout << "Square root of " << a << " is " << h << "\n";
+               cout << "Square root of " << a << " is: " << h << "\n";
                break;
           }
 
@@ -146,10 +146,18 @@ int main()
 
                } while (l > 3 || l <= 0);
           }
+          else if (inp==9){
+               double tIf;
+               cout<<"Enter the temperature in Farenheit:";
+               cin>>tIf;
+               Celcius(tIf);
+          }
+          
           else{
               cout<<"Please enter correct number:";
           }
-     } while (inp>8 || inp<=0);
-     cout<<"Press any key to exit.......";
+
+     } while (inp>9 || inp<=0);
+     cout<<"Press any key to exit.....";
      getch();
 }
