@@ -86,3 +86,9 @@ bool ArithM(int l){
             cout << "You have entered a wrong number, please enter the number again:";
         }
 }
+
+bool Celcius(int tIf){
+    double ans = ((tIf-32)*5)/9 ;
+    cout<<tIf<<" degree Fareheit in Celcius is "<<ans<<" degree celcius(approx)\n";
+    return true;
+}
