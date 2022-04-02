@@ -87,8 +87,13 @@ bool ArithM(int l){
         }
 }
 
-bool Celcius(int tIf){
-    double ans = ((tIf-32)*5)/9 ;
-    cout<<tIf<<" degree Fareheit in Celcius is "<<ans<<" degree celcius(approx)\n";
+bool farToCelcius(int tIf){
+    float ans = ((tIf-32)*5)/9 ;
+    cout<<tIf<<" degree Farenheit in Celcius is "<<ans<<" degree celcius(approx)\n";
+    return true;
+}
+bool celToFar(int tIc){
+    float ans = ((9*tIc)/5)+32;
+    cout<<tIc<<" degree celcius in Farenheit is "<<ans<<" degree Farenheit(approx)\n";
     return true;
 }
